@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Klaro",
+      "hasCanvas": false,
+      "bodyTextLen": 430,
+      "bodyTextHash": "cb0a20c232f9d02545153546a3de96019fbd5b97bf5e356d7b10e525c6cd0494",
+      "bodyTextPrefix": "Klaro KLARO STUDIO Rapikan foto produk sekaligus. Hapus backgrou",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Klaro",
+      "hasCanvas": false,
+      "bodyTextLen": 406,
+      "bodyTextHash": "b2316b01a3a5668743f9b95ddd47a764614e49322e94d4412bc28372f29d2ac8",
+      "bodyTextPrefix": "Klaro KLARO STUDIO Rapikan foto produk sekaligus. Hapus backgrou",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
